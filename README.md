@@ -23,6 +23,9 @@ I'm a Computer Engineering Student.
 ## 🛠️ Programs
 [![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![Final Cut Pro](https://img.shields.io/badge/-Final%20Cut%20Pro-000000?style=flat&logo=final-cut-pro&logoColor=white)](https://www.apple.com/final-cut-pro/)
+[![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/vs/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
 ## 📫 Connect with Me
