@@ -11,7 +11,7 @@ I'm a Computer Engineering Student.
 - Coding
 - Fitness
 - Basketball
-- 
+
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kaan-mert-kozal%C4%B1-6b60a52a5/)
 - [Instagram](https://www.instagram.com/kmertkoza/)
