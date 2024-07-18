@@ -1,4 +1,4 @@
-# Hi there, I'm Kozachad 👋
+# Hi there, I'm kozachad 👋
 
 ## 🚀 About Me
 I'm a Computer Engineering Student.
