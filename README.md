@@ -17,7 +17,7 @@ I'm a Computer Engineering Student.
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ## 🛠️ Programs
 ![Logic Pro](https://img.shields.io/badge/-Logic%20Pro-000000?style=flat-square&logo=logic-pro&logoColor=white)
