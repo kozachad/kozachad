@@ -13,16 +13,15 @@ I'm a Computer Engineering Student.
 - Basketball
 
 ## 🛠️ Coding Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-FA7343?style=flat-square&logo=swift&logoColor=white)
+[![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 
 ## 🛠️ Programs
-![Logic Pro](https://img.shields.io/badge/-Logic%20Pro-000000?style=flat-square&logo=logic-pro&logoColor=white)
-![Final Cut Pro](https://img.shields.io/badge/-Final%20Cut%20Pro-000000?style=flat-square&logo=final-cut-pro&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+[![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![Final Cut Pro](https://img.shields.io/badge/-Final%20Cut%20Pro-000000?style=for-the-badge&logo=final-cut-pro&logoColor=white)](https://www.apple.com/final-cut-pro/)
 
 
 ## 📫 Connect with Me
