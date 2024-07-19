@@ -10,7 +10,7 @@ I'm a Computer Engineering Student.
 ## 🛠️ Skills
 - Coding
 - Fitness
-- Basketball
+- Video Games
 
 
 ## 🛠️ Coding Languages
