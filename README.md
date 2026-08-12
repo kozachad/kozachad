@@ -1,10 +1,7 @@
-# Hi there, I'm kozachad 👋
+# Hi there, I'm koz 👋
 
 ## 🚀 About Me
-I'm a Computer Engineering Student.
-
-- 🔭 I’m currently working on E-Commerce API
-- 🌱 I’m currently learning C#,.NET,Node.js
+I'm a Computer Engineer.
 - 📫 How to reach me: kozakaanmert@gmail.com
 
 ## 🛠️ Skills
